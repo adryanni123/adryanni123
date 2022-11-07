@@ -8,7 +8,9 @@ h1 {
 p{text-align: center;
 background: #cccccc
 }
-
+body {
+ background-color: bisque;
+}
 
 
 
