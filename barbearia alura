@@ -19,6 +19,27 @@
           </ul>
          </nav>
        </header>
+
+       <main>
+         <ul>
+            <li>
+           <h2>cabelo</h2>
+           <img src="CABELO.JPG">
+           <P>NA TESOLURA OU NO CDRTE COMO O CLIENTE PREFERIR</P>
+           <P>R$ 25,00</P>
+            </li>
+            <li></li>
+       <h2>Barba</h2>
+       <img src="BARBA.JPG">
+       <P>CORTE E DESENHO PROFISSIONAL DE BARBA</P>
+       <p>R$ 18,00</p>
+             <li></li>
+         <h2>cabelo + Barba</h2>
+         <img src="CABELO+BARBA.JPG">
+         <p>PACOTE COMPLETO DE CABELO E BARBA</p>
+         <P>R$ 35,00</P>
+
+       </main>
    </body>
 </html>
 
